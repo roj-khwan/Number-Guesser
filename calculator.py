@@ -1,0 +1,1 @@
+import math;print(eval(input()))
